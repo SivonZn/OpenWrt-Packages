@@ -16,3 +16,21 @@
 [submodule "sing-box"]
 	path = sing-box
 	url = https://github.com/SagerNet/sing-box.git
+[submodule "luci-app-autoreboot"]
+	path = luci-app-autoreboot
+	url = https://github.com/zxl78585/luci-app-autoreboot.git
+[submodule "luci-app-poweroff"]
+	path = luci-app-poweroff
+	url = https://github.com/esirplayground/luci-app-poweroff.git
+[submodule "luci-app-openvpn-server"]
+	path = luci-app-openvpn-server
+	url = https://github.com/DavBfr/luci-app-openvpn-server.git
+[submodule "luci-app-eqosplus"]
+	path = luci-app-eqosplus
+	url = https://github.com/sirpdboy/luci-app-eqosplus.git
+[submodule "luci-app-wrtbwmon"]
+	path = luci-app-wrtbwmon
+	url = https://github.com/brvphoenix/luci-app-wrtbwmon.git
+[submodule "luci-app-wechatpush"]
+	path = luci-app-wechatpush
+	url = https://github.com/tty228/luci-app-wechatpush.git
