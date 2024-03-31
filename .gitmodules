@@ -1,3 +1,6 @@
 [submodule "UA2F"]
 	path = UA2F
 	url = https://github.com/Zxilly/UA2F.git
+[submodule "chinadns-ng"]
+	path = chinadns-ng
+	url = https://github.com/pexcn/openwrt-chinadns-ng
