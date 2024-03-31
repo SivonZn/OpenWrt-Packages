@@ -4,3 +4,6 @@
 [submodule "chinadns-ng"]
 	path = chinadns-ng
 	url = https://github.com/pexcn/openwrt-chinadns-ng
+[submodule "dns2tcp"]
+	path = dns2tcp
+	url = https://github.com/pexcn/openwrt-dns2tcp
