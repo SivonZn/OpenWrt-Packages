@@ -16,3 +16,6 @@
 [submodule "sing-box"]
 	path = sing-box
 	url = https://github.com/SagerNet/sing-box.git
+[submodule "rkp-ipid"]
+	path = rkp-ipid
+	url = https://github.com/CHN-beta/rkp-ipid.git
