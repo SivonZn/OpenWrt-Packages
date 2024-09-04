@@ -19,3 +19,6 @@
 [submodule "rkp-ipid"]
 	path = rkp-ipid
 	url = https://github.com/CHN-beta/rkp-ipid.git
+[submodule "luci-app-tailscale"]
+	path = luci-app-tailscale
+	url = https://github.com/asvow/luci-app-tailscale.git
