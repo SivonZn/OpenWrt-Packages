@@ -22,3 +22,9 @@
 [submodule "luci-app-tailscale"]
 	path = luci-app-tailscale
 	url = https://github.com/asvow/luci-app-tailscale.git
+[submodule "MentoHUST-OpenWrt-ipk"]
+	path = MentoHUST-OpenWrt-ipk
+	url = https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk.git
+[submodule "luci-app-mentohust"]
+	path = luci-app-mentohust
+	url = https://github.com/BoringCat/luci-app-mentohust.git
