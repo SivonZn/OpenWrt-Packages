@@ -1,2 +1,2 @@
 # OpenWrt-Packages
-For LEDE main branch
+For immortalwrt master branch
